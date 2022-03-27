@@ -1,2 +1,0 @@
-# dentic
-dentic project
